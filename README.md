@@ -1,2 +1,2 @@
 # AuraConnectDesktop
-Repository for the AuraConnect Desktop release application
+Repository for the releases of AuraConnect Desktop application
